@@ -16,6 +16,6 @@ main
     width: 500px;
     margin:auto ;
     padding: 10px;
-    text-shadow: 3px 3px 3px black;
+    text-shadow: 3px 0px 0px rgb(171, 171, 236)  ;
  
 }
